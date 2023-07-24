@@ -40,7 +40,7 @@ import Register from "../pages/Login/Register/Register";
           element: <Home></Home>
         },
         {
-          path: '/collegeCard',
+          path: '/colleges',
           element: <CollegeCard></CollegeCard>,
         },
       ]
