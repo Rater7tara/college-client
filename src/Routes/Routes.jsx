@@ -42,6 +42,7 @@ import Register from "../pages/Login/Register/Register";
         {
           path: '/colleges',
           element: <CollegeCard></CollegeCard>,
+          
         },
       ]
     },
